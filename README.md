@@ -3,5 +3,5 @@ Using various Object Orientated techniques to design a simple framework of a gen
 
 To run:
 
--Navigate to src folder
--Run the command java -cp ../bin Runner
+- Navigate to src folder
+- Run the command java -cp ../bin Runner
